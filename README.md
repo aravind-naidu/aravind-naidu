@@ -15,7 +15,7 @@
 
 And I appreciate the part where my stars were aligned in such a way, that finding my purpose was not a challenging task.
 From a pretty young age, I knew that I wanted to make a positive difference in this world and the people living in it.
-Science was a pretty interesting subject that kept intriguing my curious budding mind and I saw myself reading books and stumbling upon studies by various researchers and most importantly how Albert Einstine, Stephen Hawking, and A. P. J Abdul Kalam inspired me to follow their footsteps into the fascinating discipline of technology.
+Science was a pretty interesting subject that kept intriguing my curious budding mind and I saw myself reading books and stumbling upon studies by various researchers and most importantly how Albert Einstein, Stephen Hawking, and A. P. J Abdul Kalam inspired me to follow their footsteps into the fascinating discipline of technology.
 
 Currently, I'm an engineer with my major as Electronics and Telecommunications, but Artificial Intelligence always captivated my interest, so I pitched in my idle time to learn Machine Learning on my own by various online courses, research papers and following experts into this field. 
 I applied my knowledge to building Machine Learning models for real-world applications as solutions. 
