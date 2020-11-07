@@ -10,20 +10,15 @@
 </p>
 
 
-> Roy Bennett, once said,
-> *"If you have a strong purpose in life, you don't have to be pushed. Your passion will drive you there"*
+ 
+I have always been highly motivated in Machine Learning and AI. I have experience in building Machine Learning models for real-world applications as solutions
 
-And I appreciate the part where my stars were aligned in such a way, that finding my purpose was not a challenging task.
-From a pretty young age, I knew that I wanted to make a positive difference in this world and the people living in it.
-Science was a pretty interesting subject that kept intriguing my curious budding mind and I saw myself reading books and stumbling upon studies by various researchers and most importantly how Albert Einstein, Stephen Hawking, and A. P. J Abdul Kalam inspired me to follow their footsteps into the fascinating discipline of technology.
+My main motivation is Research and Development of solutions to implement in different dimensions for Social Good.
 
-Currently, I'm an engineer with my major as Electronics and Telecommunications, but Artificial Intelligence always captivated my interest, so I pitched in my idle time to learn Machine Learning on my own by various online courses, research papers and following experts into this field. 
-I applied my knowledge to building Machine Learning models for real-world applications as solutions. 
-My current work comprises of Research and Development of Machine Learning solutions, as well as training freshers in AI and Machine Learning.
+I’m trying my hands on Deep Learning, Computer Vision and Natural Language Processing.
 
-Having the knowledge of Science and technology is no less than a superpower, the impulse that pushes me forward is the variation I want to create in society, for the good.
-Wanting to work in research and development, I want to advance my drive from scratch. 
+I have years of experience of team leading in NGOs working on social issues since my high school.
+Have exquisite management skills developed by managing artists and big events like Art Festivals for years in a row.
 
-I believe learning is a continuous process and should not be stopped and so I'm presently growing myself in the fields of Deep Learning, Computer Vision and Natural Language Processing. 
-
-Always welcoming discussions that feeds my mind and calms my curiosity.
+Apart from that, I love to write stories and poems.
+I perform frequently at Open Mics. 
