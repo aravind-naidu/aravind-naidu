@@ -25,7 +25,7 @@ I perform frequently at Open Mics.
 
 
 <details>
-<summary> Machine Learning Path | Pluralsight </summary>
+<summary> <b>Machine Learning Path | Pluralsight </b> </summary>
 
   * [Building Your First Machine Learning Solution]()
   * [Preparing Data for Machine Learning]()
@@ -36,7 +36,7 @@ I perform frequently at Open Mics.
 </details>
  
  <details>
-<summary> Deep Learning Specialization | DeepLearning.ai (Coursera) </summary>
+<summary> <b> Deep Learning Specialization | DeepLearning.ai (Coursera) </b> </summary>
 
   * [Neural Networks and Deep Learning]()
   * [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization]()
@@ -47,7 +47,7 @@ I perform frequently at Open Mics.
 </details>
 
 <details>
-<summary> IBM AI Engineering Professional Certificate | Coursera </summary>
+<summary> <b> IBM AI Engineering Professional Certificate | Coursera </b> </summary>
 
   * [Machine Learning with Python]()
   * [Scalable Machine Learning on Big Data using Apache Spark]()
@@ -60,7 +60,7 @@ I perform frequently at Open Mics.
 
 
 <details>
-<summary> TensorFlow Developer Professional Certificate </summary>
+<summary> <b> TensorFlow Developer Professional Certificate </b> </summary>
 
   * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning]()
   * [Convolutional Neural Networks in TensorFlow]()
