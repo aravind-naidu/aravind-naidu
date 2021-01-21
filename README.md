@@ -22,3 +22,40 @@ Have exquisite management skills developed by managing artists and big events li
 
 Apart from that, I love to write stories and poems.
 I perform frequently at Open Mics. 
+
+# Project Index
+
+<details>
+ <summary> Machine Learning </summary>
+
+* [Heart Disease Prediction](https://github.com/aravind-naidu/Heart-Disease-Prediction)
+* [Parkinson's Disease Prediction](https://github.com/aravind-naidu/Parkinson-s-Disease-Prediction)
+* [Janatahack: Machine Learning in Agriculture](https://github.com/aravind-naidu/Janatahack-ML-in-Agriculture)
+</details>
+
+<details>
+ <summary> Anomaly Detection </summary>
+
+* [Z-score with Artificial Neural Network](https://github.com/aravind-naidu/Anomaly-Detection/blob/main/1_Zscore_Anomaly_Detection.ipynb)
+* [Isolation Forest]()
+* [Sampling Methods]()
+</details>
+
+
+<details>
+
+<summary>Image Processing and Classification </summary>
+
+* [Optical Character Recognition](https://github.com/aravind-naidu/Optical-Character-Recognition)
+* [Flower Classification](https://github.com/aravind-naidu/Image-Classification/blob/main/flower_classification.ipynb/)
+* [Kaggle Tomato Leaf Disease Classification](https://github.com/aravind-naidu/Image-Classification/blob/main/resnet-50.ipynb)
+</details>
+
+
+<details>
+
+<summary> Natural Language Processing </summary>
+
+* [Spam Classification](https://github.com/aravind-naidu/NLP-Text-Classification/blob/main/NLP_for_Text_Classification.ipynb)
+* []()
+</details>
